@@ -158,7 +158,6 @@ public class Game extends Canvas implements Runnable {
                 return;
             case 9:
                 LoadScreen.setMessage("Checking for Updates...");
-                Updater.checkForUpdate(true);
                 counter++;
                 LoadScreen.loadMore();
                 return;
