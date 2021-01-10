@@ -1,2 +1,2 @@
 # forms-land
-This is a game in progress! :D
+A Java game I made in Grade 7-8.
